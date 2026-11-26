@@ -1,10 +1,13 @@
-Unit 4 - Java Programming
-This folder contains Java practical programs based on:
--GUI Applications
--Event Handling
--Event Listener
--Adapter Classes
--Java Networking
--Client-Server Programs
--Socket Programming
--File Transfer and Chat Applications
+Unit 3 - Java Programs
+-Creating and Importing Packages
+-Static Import
+-String Operations
+-Mutable and Immutable Strings
+-Creating Threads
+-Multithreading
+-Thread Synchronization
+-Inter-Thread Communication
+-Reading and Writing Files
+-Byte and Character Streams
+-Buffered and Data Streams
+-Object Serialization
